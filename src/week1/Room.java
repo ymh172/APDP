@@ -15,7 +15,7 @@ public class Room {
     }
 
     public static void main(String[] args) {
-        Room r1= new Room(2,4);
+        Room r1= new Room(5,6);
         r1.computeDisplay();
     }
 }
