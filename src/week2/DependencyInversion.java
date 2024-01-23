@@ -9,5 +9,6 @@ public class DependencyInversion {
         System.out.println(car1);
         System.out.println(car2);
         System.out.println(car3);
+        System.out.println();
     }
 }
